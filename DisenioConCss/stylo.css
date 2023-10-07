@@ -1,0 +1,232 @@
+header {
+    background: rgb(85, 85, 85);
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    z-index: 100;
+  }
+  
+  nav {
+    float: left;
+    height: 60px;
+  }
+  
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+  
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+  nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #eca023;
+  }
+
+  #fotoPrimera {
+    filter: brightness(50%);
+  }
+ .contenedor{
+  position: relative;
+  display: inline-block;
+  text-align: right;
+}
+.texto-titulo{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  font-size: 22px;
+  color: #fff;
+  top: 120px;
+  left: 1156px;
+}
+.texto1{
+  font-family:serif;
+  position: absolute;
+  color: #fff;
+  top: 160px;
+  left: 800px;
+}
+.texto2{
+  position: absolute;
+  color: #fff;
+  top: 180px;
+  left: 804px;
+}
+.texto3{
+  position: absolute;
+  color: #fff;
+  top: 200px;
+  left: 854px;
+}
+.texto4{
+  position: absolute;
+  color: #fff;
+  top: 220px;
+  left: 820px;
+}
+.texto5{
+  position: absolute;
+  color: #fff;
+  top: 240px;
+  left: 1000px;
+}
+.boton1{
+  position: absolute;
+  color: #fff;
+  background: none;
+  top: 280px;
+  left: 1010px;
+  border-radius: 10%;
+}
+.boton2{
+  position: absolute;
+  color: #fff;
+  background-color: green;
+  top: 280px;
+  left: 1150px;
+  border-radius: 10%;
+}
+.titulo {
+  position: absolute;
+  top: 420px;
+  left: 600px;
+  color: grey;
+  font-family: 'Times New Roman', Times, serif;
+}
+.titulos {
+  position: absolute;
+  top: 440px;
+  color: black;
+  align-items: center;
+  left: 570px;
+}
+
+h6 {
+  color: grey;
+}
+
+.foto1 {
+  position: absolute;
+  top: 520px;
+  left: 100px;
+}
+.foto2 {
+  position: absolute;
+  top: 520px;
+  left: 500px;
+}
+.foto3 {
+  position: absolute;
+  top: 520px;
+  left: 900px;
+}
+
+.boton3{
+  position: absolute;
+  color: black;
+  background-color: yellow;
+  top: 320px;
+  left: 15px;
+  border-radius: 10%;
+}
+.boton4{
+  position: absolute;
+  color: white;
+  background-color: blue;
+  top: 320px;
+  left: 100px;
+  border-radius: 10%;
+}
+.boton5{
+  position: absolute;
+  color: black;
+  background-color: yellow;
+  top: 320px;
+  left: 15px;
+  border-radius: 10%;
+}
+.boton6{
+  position: absolute;
+  color: white;
+  background-color: blue;
+  top: 320px;
+  left: 100px;
+  border-radius: 10%;
+}
+.boton7{
+  position: absolute;
+  color: white;
+  background-color: grey;
+  top: 320px;
+  left: 15px;
+  border-radius: 10%;
+}
+.boton8{
+  position: absolute;
+  color: white;
+  background-color: red;
+  top: 320px;
+  left: 100px;
+  border-radius: 10%;
+}
+
+.p1{
+  position: absolute;
+  top: 340px;
+  left: 15px;
+}
+.p2{
+  position: absolute;
+  top: 340px;
+  left: 15px;
+}
+.p3{
+  position: absolute;
+  top: 340px;
+  left: 15px;
+}
+ 
+.div1{
+  position: absolute;
+  top: 984px;
+}
+
+.div2{
+  padding: 5px;
+  position: relative;
+  top: 572px;
+  width: 50%;
+  height: 400px;
+  background-color: rgb(94, 93, 93);
+  left: 600px;
+  right: 500px;
+}
+.parrafo{
+  size: 10px;
+  color: #fff;
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+.boton9{
+  color: #fff;
+  border-radius: 10%;
+  background: none;
+}
+
+#foto4 {
+  width: 50%;
+}
+
+.form{
+  top: 1000px;
+}
